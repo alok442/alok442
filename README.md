@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alok442" alt="alok442" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">
 - 💬 Ask me about **php**
 
 - 📫 How to reach me **aloknayak442@gmail.com**
